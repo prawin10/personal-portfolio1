@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(../doc/resume-pic.jpg);
+    background-image: url(../images/resume-pic.jpg);
     background-position: center top;
     height: 1000px;
     font-family: Arial, Helvetica, sans-serif;
@@ -66,9 +66,9 @@ body{
     padding-bottom: 40px;
 }
 .header-right img{
-    width: 100%;
+    width: 120%;
     border-radius: 50%;
-    border: solid 8px #c0bebf;
+    border: solid 0px #c0bebf;
 }
 .header h1{
     color: white;
@@ -164,8 +164,8 @@ body{
     padding-left: 4px;
     margin-right: 4px;
     color: white;
-    border: solid 2px rgb(195 198 203);
-    background-color: rgb(152 157 166);
+    border: solid 2px rgb(38 41 46);
+    background-color: rgb(32 39 50);
     border-radius: 8px;
     display: inline-block;
 }
@@ -176,7 +176,9 @@ body{
     padding-bottom: 10px;
     padding-right: 4px;
     padding-left: 4px;
-    border: solid 2px rgb(195 198 203);
+    color: white;
+    border: solid 2px rgb(38 41 46);
+    background-color: rgb(32 39 50);
     border-radius: 8px;
     margin-right: 4px;
     margin-top: 10px;
